@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/dcashdallas/HW-17-FitnessTracker/issues"
   },
-  "homepage": "https://github.com/dcashdallas/HW-17-FitnessTracker#readme"
+  "homepage": "https://github.com/dcashdallas/HW-17-FitnessTracker#readme",
+  "dependencies": {
+    "mongoose": "^5.10.0",
+    "morgan": "^1.10.0"
+  }
 }
