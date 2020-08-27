@@ -17,7 +17,7 @@ body {
 }
 
 nav {
-  background-color: #5793fd;
+  background-color: red;
   color: #ffffff;
   height: 80px;
   padding: 10px;
@@ -435,3 +435,17 @@ form > button {
     right: -320px;
   }
 }
+
+.wrapper {
+    background: "../public/images/fitness.jpg";
+    background-color: #cccccc;
+  }
+
+  .body {
+    background-image: url("../public/images/fitness.jpg"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
