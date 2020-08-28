@@ -1,6 +1,7 @@
 
 <h1 align="center">Fitness Tracker</h1>
-  ## Description
+
+  ## Description<br>
 
   A fitness tracker program using MongoDB to track exercise routines along with a fitness dashboard tracking progress.
   ## Table of Contents<br>
