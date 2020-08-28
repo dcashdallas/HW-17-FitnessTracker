@@ -18,9 +18,7 @@ const db = require("./models");
 require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
 
-app.get("/", function (req, res) {
-    res.json(path.join(__dirname, "public/index.html"));
-});
+
 
 app.listen(PORT, () => {
     console.log(`App running on port ${PORT}!`);

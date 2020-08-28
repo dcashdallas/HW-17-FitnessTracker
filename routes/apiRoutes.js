@@ -1,6 +1,10 @@
 var db = require("../models");
 
 module.exports = function (app) {
+    app.get("/", function (req, res) {
+        res.json(path.join(__dirname, "public/index.html"));
+    });
+
 
     // Used by api.js to get last workout
     app.get("/api/workouts", (req, res) => {
