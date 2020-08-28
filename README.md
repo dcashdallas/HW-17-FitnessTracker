@@ -2,7 +2,7 @@
 <h1 align="center">Fitness Tracker</h1>
 
   ## Demo<br>
-  !![Fitness Tracker Demo](https://github.com/dcashdallas/HW-17-FitnessTracker/blob/master/public/images/fitnesstracker.gif?raw=true)
+  ![Fitness Tracker Demo](https://github.com/dcashdallas/HW-17-FitnessTracker/blob/master/public/images/fitnesstracker.gif?raw=true)
 
   ## Description<br>
 
